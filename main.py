@@ -21,4 +21,4 @@ if __name__ == "__main__":
         if message.content.startswith('$fox'):
             await message.channel.send('ｰ^｡^ｰ')
 
-    client.run('ODYwNzI5NTYxODc5Njc0ODgw.YN_e3w.wqN5xdsWGsbmpsBtBp5RbjH5jTo')
+    client.run('')
