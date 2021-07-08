@@ -47,4 +47,4 @@ if __name__ == "__main__":
             
 
 
-    client.run('')
+    client.run(os.getenv('TOKEN'))
